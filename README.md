@@ -2,7 +2,7 @@
 -----
 Traffic sign detection by implementing Yolo11 the latest iteration in the Ultralytics YOLO series of real-time object detectors. 
 
-*The project is still in progress. I want to try out other architecture and compare the overall performance of the training.*
+**Note** *The project is still in progress. I want to try out other architecture and compare the overall performance of the training.*
 
 **Dataset**
 
